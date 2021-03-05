@@ -1,0 +1,62 @@
+h1.title {
+  background-color: navy;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+h2.author {
+  text-align: right;
+}
+
+p.image {
+  text-align: center;
+}
+
+a:link {
+  color: green;
+}
+
+a:hover {
+  color: silver;
+}
+
+a:visited {
+  color: gray;
+}
+
+.content {
+  width: 860px;
+  margin: 0 auto;
+}
+
+.copyright {
+  text-align: center;
+}
+
+hr {
+  border-top: 1px dotted navy;
+}
+
+.cast {
+  font-weight: 600;
+}
+
+.navy {
+  color: navy;
+}
+
+.green {
+  color: green;
+}
+
+.books {
+  display: flex;
+  list-style: none;
+}
+
+.book {
+  background-color: lightgray;
+  padding: 10px;
+  margin-right: 10px;
+}
